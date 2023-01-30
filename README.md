@@ -10,4 +10,3 @@ Kelas = PYTN-KS-007
 
 Kode Peserta = PYTN-KS07-003
 
-Linkedin : https://www.linkedin.com/in/kaylaalysa/
